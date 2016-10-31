@@ -2,6 +2,8 @@
 
 A space for learning JSON with Elm.
 
+Resource: [https://www.brianthicks.com](https://www.brianthicks.com)
+
 ## Run the scripts
 
 Boot: Installs packages and initial build ```npm run boot```
